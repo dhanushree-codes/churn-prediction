@@ -35,6 +35,7 @@ streamlit run app.py
 
 ## Project Structure
 
+```text
 churn_project/
 ├── app.py
 ├── database.py
@@ -44,8 +45,10 @@ churn_project/
 ├── feature_columns.pkl
 ├── model_metadata.json
 ├── telco_churn.csv
-└── views/
-
+├── views/
+├── images/
+└── README.md
+```
 ## Usage
 
 Run the app and open:
