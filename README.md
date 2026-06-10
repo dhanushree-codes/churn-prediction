@@ -1,6 +1,7 @@
 # Customer Churn Prediction
 
-A Streamlit machine learning app that predicts customer churn, supports single and bulk predictions, shows analytics dashboards, tracks prediction history, and provides model insights.
+A Streamlit-based machine learning application that predicts customer churn, supports single and bulk predictions, provides explainable AI insights using SHAP, delivers personalized customer retention strategies, visualizes analytics dashboards, tracks prediction history, and offers model insights for data-driven decision-making.
+
 
 ## Features
 
