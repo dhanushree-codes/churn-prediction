@@ -31,6 +31,7 @@ git clone https://github.com/dhanushree-codes/churn-prediction.git
 cd churn-prediction/churn_project
 pip install -r requirements.txt
 streamlit run app.py
+```
 
 ## Project Structure
 
@@ -65,7 +66,7 @@ Model: Random Forest Classifier
 ROC-AUC: ~83%
 Features: 11 customer attributes
 
-Author
+## Author
 
 Developed by Dhanushree
 GitHub: dhanushree-codes
