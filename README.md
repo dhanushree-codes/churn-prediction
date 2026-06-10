@@ -51,7 +51,7 @@ churn_project/
 └── README.md
 ```
 ## Usage
-```bash
+
 Run the app and open:
 http://localhost:8501
 Use the sidebar to access:
@@ -62,7 +62,7 @@ Model Insights
 Prediction History
 AI Assistant
 Explainable AI
-```
+
 
  ## Model
 
