@@ -55,13 +55,13 @@ churn_project/
 Run the app and open:
 http://localhost:8501
 Use the sidebar to access:
-Single Prediction
-Bulk Prediction
-Analytics Dashboard
-Model Insights
-Prediction History
-AI Assistant
-Explainable AI
+Single Prediction,
+Bulk Prediction,
+Analytics Dashboard,
+Model Insights,
+Prediction History,
+AI Assistant,
+Explainable AI.
 
 
  ## Model
